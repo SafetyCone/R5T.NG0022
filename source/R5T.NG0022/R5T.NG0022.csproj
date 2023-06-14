@@ -12,4 +12,7 @@
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <RepositoryUrl>https://github.com/SafetyCone/R5T.NG0022.git</RepositoryUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Linq.Async" Version="6.0.1" />
+  </ItemGroup>
 </Project>
